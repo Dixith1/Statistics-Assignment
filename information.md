@@ -4,10 +4,10 @@ Statistical analysis done for this assignment.
 
 Three Assignments are submitted
 
--Covid19
+**Covid19
 
--IPL
+**IPL
 
--Sales Data
+**Sales Data
 
 PPT and word document submitted
