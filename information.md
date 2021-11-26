@@ -1,6 +1,6 @@
-This is a information file about the assignment.
+*This is a information file about the assignment.*
 
-Statistical analysis done for this assignment.
+*Statistical analysis done for this assignment.*
 
 **Three Assignments are submitted**
 
