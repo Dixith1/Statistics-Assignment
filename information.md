@@ -4,9 +4,9 @@
 
 **Three Assignments are submitted**
 
-[]1.*Covid19*
+[x] 1.*Covid19*#739
 
-[]2.*IPL*
+[ ] https://github.com/octo-org/octo-repo/issues/740 2.*IPL*
 
 []3.*Sales Data*
 
