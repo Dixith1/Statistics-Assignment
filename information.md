@@ -2,12 +2,12 @@ This is a information file about the assignment.
 
 Statistical analysis done for this assignment.
 
-Three Assignments are submitted
+**Three Assignments are submitted**
 
-**Covid19**
+1.*Covid19*
 
-**IPL**
+2.*IPL*
 
-**Sales Data**
+3.*Sales Data*
 
-PPT and word document submitted
+*PPT and word document submitted*
