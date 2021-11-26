@@ -2,7 +2,7 @@
 
 This is the submission of assignment on Statistics with a picture to clear understand which assignment i worked.
 
-![Covid19] ![image](https://www.s-ge.com/sites/default/files/styles/sge_header_lg/public/article/images/dqacscxeqd.jpg?itok=NG0GI-fV)
+Covid19 ![image](https://www.s-ge.com/sites/default/files/styles/sge_header_lg/public/article/images/dqacscxeqd.jpg?itok=NG0GI-fV)
 
 ![IPL] (![image](https://i1.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/12/Data-Science-Project-on-IPL-Analysis.png?fit=1280%2C720&ssl=1)
 
