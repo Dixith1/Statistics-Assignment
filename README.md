@@ -1,6 +1,6 @@
 # Statistics-Assignment
 
-## This is the submission of assignment on Statistics with a picture to clear understand which assignment i worked.
+### This is the submission of assignment on Statistics with a picture to clear understand which assignment i worked.
 
 :small_blue_diamond:***Covid19***:
 
