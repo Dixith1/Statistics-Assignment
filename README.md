@@ -1,15 +1,15 @@
 # Statistics-Assignment
 
-## This is the submission of assignment on Statistics with a picture to clear understand which assignment i worked.:writing_hand:
+## This is the submission of assignment on Statistics with a picture to clear understand which assignment i worked.
 
-:black_circle:***Covid19***::stethoscope:
+:small_blue_diamond:***Covid19***:
 
 ![image](https://www.s-ge.com/sites/default/files/styles/sge_header_lg/public/article/images/dqacscxeqd.jpg?itok=NG0GI-fV)
 
-:black_circle:***IPL***:cricket_game:
+:small_blue_diamond:***IPL***
 
 ![image](https://i1.wp.com/thecleverprogrammer.com/wp-content/uploads/2020/12/Data-Science-Project-on-IPL-Analysis.png?fit=1280%2C720&ssl=1)
 
-:black_circle:***Sales Data***:bar_chart:
+:small_blue_diamond:***Sales Data***
 
 ![image](https://user-images.githubusercontent.com/93037047/143534903-e952e1d6-7484-4aea-bbe7-83d94fe1e843.png)
